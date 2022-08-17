@@ -73,7 +73,6 @@ This is main task in overall Process. For this task we applied Three methods.
     * Advantage : We can detect the lines and semantic pair both adjusting the best threshold
     * Disadvantage : There is no disadvantage but model should need to be optimized
 
-#This has to be changed
 ![combine](https://user-images.githubusercontent.com/54680536/89717404-0ba6db00-d9d4-11ea-8619-77db7d248141.jpg)
 
 Lastly We Used CRAFT Model for it's effictive ness with less data.
